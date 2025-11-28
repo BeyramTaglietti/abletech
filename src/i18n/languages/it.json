@@ -1,6 +1,5 @@
 {
   "app": {
-    "home": "Home",
     "loading_error": "Errore durante il caricamento dei dati",
     "retry": "Riprova",
     "no_data": "Nessun dato trovato",
@@ -11,6 +10,11 @@
     "update": "Aggiorna",
     "pick_date": "Seleziona data",
     "delete": "Elimina"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "total": "Totale",
+    "subtitle": "Panoramica generale del sistema"
   },
   "machines": {
     "title_one": "Macchina",

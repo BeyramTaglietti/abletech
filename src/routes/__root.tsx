@@ -10,10 +10,10 @@ function RootComponent() {
   return (
     <>
       <div className="flex flex-row size-full h-dvh w-dvw">
-        <div className="w-120 h-full">
+        <div className="w-14 lg:w-80 h-full transition-all duration-300">
           <Sidebar />
         </div>
-        <main className="size-full px-4 py-6">
+        <main className="w-[calc(100%-3.5rem)] lg:w-[calc(100%-20rem)] px-4 py-6 transition-all duration-300">
           <Outlet />
         </main>
       </div>
