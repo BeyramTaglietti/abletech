@@ -3,6 +3,27 @@
     "home": "Home",
     "loading_error": "Errore durante il caricamento dei dati",
     "retry": "Riprova",
-    "no_data": "Nessun dato trovato"
+    "no_data": "Nessun dato trovato",
+    "search": "Cerca",
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "create": "Crea",
+    "update": "Aggiorna",
+    "pick_date": "Seleziona data",
+    "delete": "Elimina"
+  },
+  "machines": {
+    "title_one": "Macchina",
+    "title_other": "Macchine",
+    "name": "Nome",
+    "customer": "Cliente",
+    "operational_date": "Data di operatività",
+    "operational_total_hours": "Ore di operatività totali",
+    "new_machine": "Nuova macchina",
+    "edit_machine": "Modifica macchina",
+    "delete_machine": {
+      "title": "Elimina macchina",
+      "description": "Sei sicuro di voler eliminare questa macchina?"
+    }
   }
 }
